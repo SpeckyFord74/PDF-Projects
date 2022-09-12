@@ -1,0 +1,15 @@
+C:\Users\Corey Ford\source\repos\PDF Projects\Copied\Copied\bin\Debug\net6.0\Copied.exe
+C:\Users\Corey Ford\source\repos\PDF Projects\Copied\Copied\bin\Debug\net6.0\Copied.deps.json
+C:\Users\Corey Ford\source\repos\PDF Projects\Copied\Copied\bin\Debug\net6.0\Copied.runtimeconfig.json
+C:\Users\Corey Ford\source\repos\PDF Projects\Copied\Copied\bin\Debug\net6.0\Copied.dll
+C:\Users\Corey Ford\source\repos\PDF Projects\Copied\Copied\bin\Debug\net6.0\Copied.pdb
+C:\Users\Corey Ford\source\repos\PDF Projects\Copied\Copied\obj\Debug\net6.0\Copied.csproj.AssemblyReference.cache
+C:\Users\Corey Ford\source\repos\PDF Projects\Copied\Copied\obj\Debug\net6.0\Copied.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Corey Ford\source\repos\PDF Projects\Copied\Copied\obj\Debug\net6.0\Copied.AssemblyInfoInputs.cache
+C:\Users\Corey Ford\source\repos\PDF Projects\Copied\Copied\obj\Debug\net6.0\Copied.AssemblyInfo.cs
+C:\Users\Corey Ford\source\repos\PDF Projects\Copied\Copied\obj\Debug\net6.0\Copied.csproj.CoreCompileInputs.cache
+C:\Users\Corey Ford\source\repos\PDF Projects\Copied\Copied\obj\Debug\net6.0\Copied.dll
+C:\Users\Corey Ford\source\repos\PDF Projects\Copied\Copied\obj\Debug\net6.0\refint\Copied.dll
+C:\Users\Corey Ford\source\repos\PDF Projects\Copied\Copied\obj\Debug\net6.0\Copied.pdb
+C:\Users\Corey Ford\source\repos\PDF Projects\Copied\Copied\obj\Debug\net6.0\Copied.genruntimeconfig.cache
+C:\Users\Corey Ford\source\repos\PDF Projects\Copied\Copied\obj\Debug\net6.0\ref\Copied.dll

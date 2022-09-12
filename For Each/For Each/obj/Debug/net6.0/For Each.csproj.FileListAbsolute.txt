@@ -1,0 +1,15 @@
+C:\Users\Corey Ford\source\repos\PDF Projects\For Each\For Each\bin\Debug\net6.0\For Each.exe
+C:\Users\Corey Ford\source\repos\PDF Projects\For Each\For Each\bin\Debug\net6.0\For Each.deps.json
+C:\Users\Corey Ford\source\repos\PDF Projects\For Each\For Each\bin\Debug\net6.0\For Each.runtimeconfig.json
+C:\Users\Corey Ford\source\repos\PDF Projects\For Each\For Each\bin\Debug\net6.0\For Each.dll
+C:\Users\Corey Ford\source\repos\PDF Projects\For Each\For Each\bin\Debug\net6.0\For Each.pdb
+C:\Users\Corey Ford\source\repos\PDF Projects\For Each\For Each\obj\Debug\net6.0\For Each.csproj.AssemblyReference.cache
+C:\Users\Corey Ford\source\repos\PDF Projects\For Each\For Each\obj\Debug\net6.0\For Each.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Corey Ford\source\repos\PDF Projects\For Each\For Each\obj\Debug\net6.0\For Each.AssemblyInfoInputs.cache
+C:\Users\Corey Ford\source\repos\PDF Projects\For Each\For Each\obj\Debug\net6.0\For Each.AssemblyInfo.cs
+C:\Users\Corey Ford\source\repos\PDF Projects\For Each\For Each\obj\Debug\net6.0\For Each.csproj.CoreCompileInputs.cache
+C:\Users\Corey Ford\source\repos\PDF Projects\For Each\For Each\obj\Debug\net6.0\For Each.dll
+C:\Users\Corey Ford\source\repos\PDF Projects\For Each\For Each\obj\Debug\net6.0\refint\For Each.dll
+C:\Users\Corey Ford\source\repos\PDF Projects\For Each\For Each\obj\Debug\net6.0\For Each.pdb
+C:\Users\Corey Ford\source\repos\PDF Projects\For Each\For Each\obj\Debug\net6.0\For Each.genruntimeconfig.cache
+C:\Users\Corey Ford\source\repos\PDF Projects\For Each\For Each\obj\Debug\net6.0\ref\For Each.dll
