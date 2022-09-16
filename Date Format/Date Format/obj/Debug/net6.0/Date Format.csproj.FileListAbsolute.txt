@@ -1,0 +1,15 @@
+C:\Users\Corey Ford\source\repos\PDF-Projects\Date Format\Date Format\bin\Debug\net6.0\Date Format.exe
+C:\Users\Corey Ford\source\repos\PDF-Projects\Date Format\Date Format\bin\Debug\net6.0\Date Format.deps.json
+C:\Users\Corey Ford\source\repos\PDF-Projects\Date Format\Date Format\bin\Debug\net6.0\Date Format.runtimeconfig.json
+C:\Users\Corey Ford\source\repos\PDF-Projects\Date Format\Date Format\bin\Debug\net6.0\Date Format.dll
+C:\Users\Corey Ford\source\repos\PDF-Projects\Date Format\Date Format\bin\Debug\net6.0\Date Format.pdb
+C:\Users\Corey Ford\source\repos\PDF-Projects\Date Format\Date Format\obj\Debug\net6.0\Date Format.csproj.AssemblyReference.cache
+C:\Users\Corey Ford\source\repos\PDF-Projects\Date Format\Date Format\obj\Debug\net6.0\Date Format.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Corey Ford\source\repos\PDF-Projects\Date Format\Date Format\obj\Debug\net6.0\Date Format.AssemblyInfoInputs.cache
+C:\Users\Corey Ford\source\repos\PDF-Projects\Date Format\Date Format\obj\Debug\net6.0\Date Format.AssemblyInfo.cs
+C:\Users\Corey Ford\source\repos\PDF-Projects\Date Format\Date Format\obj\Debug\net6.0\Date Format.csproj.CoreCompileInputs.cache
+C:\Users\Corey Ford\source\repos\PDF-Projects\Date Format\Date Format\obj\Debug\net6.0\Date Format.dll
+C:\Users\Corey Ford\source\repos\PDF-Projects\Date Format\Date Format\obj\Debug\net6.0\refint\Date Format.dll
+C:\Users\Corey Ford\source\repos\PDF-Projects\Date Format\Date Format\obj\Debug\net6.0\Date Format.pdb
+C:\Users\Corey Ford\source\repos\PDF-Projects\Date Format\Date Format\obj\Debug\net6.0\Date Format.genruntimeconfig.cache
+C:\Users\Corey Ford\source\repos\PDF-Projects\Date Format\Date Format\obj\Debug\net6.0\ref\Date Format.dll
